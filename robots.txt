@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://haephongoh.switernal.cn/sitemap.xml
